@@ -1,0 +1,19 @@
+# Rust build output
+target/
+
+# rustfmt backups
+**/*.rs.bk
+
+# Debug info
+*.pdb
+
+# macOS
+.DS_Store
+
+# Editors
+.idea/
+.vscode/
+*.swp
+
+# Other
+private/*
