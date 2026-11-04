@@ -17,3 +17,6 @@ target/
 
 # Other
 private/*
+
+# Claude Code personal instructions
+CLAUDE.local.md
